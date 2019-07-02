@@ -20,5 +20,13 @@
 }
 
 .masthead {
-  grid-area: ;
+  grid-area: header;
+}
+
+.page-title {
+  grid-area: title;
+}
+
+.main-content {
+  grid-area: main;
 }
