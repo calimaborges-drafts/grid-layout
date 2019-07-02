@@ -1,0 +1,41 @@
+body {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.site > * {
+  margin: 5px;
+  padding: 5px;
+  color: white;
+}
+
+.site {
+  border: 1px solid lightgrey;
+}
+
+.masthead {
+  background-color: blueviolet;
+  height: 200px;
+}
+
+.page-title {
+  background-color: dodgerblue;
+  height: 50px;
+}
+
+.main-content {
+  background-color: aquamarine;
+  height: 250px;
+  color: black;
+}
+
+.sidebar {
+  background-color: orange;
+  height: 100px;
+}
+
+.footer {
+  background-color: cornflowerblue;
+  height: 100px;
+}
